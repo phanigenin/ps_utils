@@ -14,6 +14,7 @@ def ps_timeit(function):
     if app_name_log is specified, timing is redirected to the respective app logger so there is continuity
     else: standard print redirection of message
 
+    format example: test_timeit.py .calc_square took 5 secs
     :param function: function to be decorated
     :return: str to stdout or logger
     '''
@@ -32,6 +33,14 @@ def ps_timeit(function):
 
 
 class PSC_Timer():
+    '''
+    Phani Sarma Class Timer : Scope object, measures execution time for a block not just a function
+
+    if app_name_log is specified while obj creation, timing is redirected to the respective app logger so there is continuity
+    else: standard print redirection of message
+
+    format example: function: test_timerscope line_no_begin: 30  line_no_end: 33 took 5 secs
+    '''
     def __init__(self,app_name_log=None):
         self.app_name_log = app_name_log
 
