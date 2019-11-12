@@ -8,6 +8,6 @@ setup(
     author='Phani Sarma',
     author_email='phani.mfe@gmail.com',
     url='https://github.com/phanigenin',
-    install_requires=['timeit'],
+    install_requires=[],
     packages=find_packages(exclude=('docs'))
 )
