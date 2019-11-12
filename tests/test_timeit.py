@@ -33,4 +33,3 @@ def test_timerscope():
          calc_square(1000000000)
 
     assert True
-

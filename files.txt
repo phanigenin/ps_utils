@@ -1,1 +1,13 @@
-c:\users\phani\appdata\roaming\python\python36\site-packages\ps_utils-0.1.0-py3.6.egg
+c:\users\phani\appdata\roaming\python\python36\site-packages\ps_utils-0.1.0-py3.6.egg\EGG-INFO\dependency_links.txt
+c:\users\phani\appdata\roaming\python\python36\site-packages\ps_utils-0.1.0-py3.6.egg\EGG-INFO\not-zip-safe
+c:\users\phani\appdata\roaming\python\python36\site-packages\ps_utils-0.1.0-py3.6.egg\EGG-INFO\PKG-INFO
+c:\users\phani\appdata\roaming\python\python36\site-packages\ps_utils-0.1.0-py3.6.egg\EGG-INFO\SOURCES.txt
+c:\users\phani\appdata\roaming\python\python36\site-packages\ps_utils-0.1.0-py3.6.egg\EGG-INFO\top_level.txt
+c:\users\phani\appdata\roaming\python\python36\site-packages\ps_utils-0.1.0-py3.6.egg\src\ps_timeit.py
+c:\users\phani\appdata\roaming\python\python36\site-packages\ps_utils-0.1.0-py3.6.egg\src\__init__.py
+c:\users\phani\appdata\roaming\python\python36\site-packages\ps_utils-0.1.0-py3.6.egg\src\__pycache__\ps_timeit.cpython-36.pyc
+c:\users\phani\appdata\roaming\python\python36\site-packages\ps_utils-0.1.0-py3.6.egg\src\__pycache__\__init__.cpython-36.pyc
+c:\users\phani\appdata\roaming\python\python36\site-packages\ps_utils-0.1.0-py3.6.egg\tests\test_timeit.py
+c:\users\phani\appdata\roaming\python\python36\site-packages\ps_utils-0.1.0-py3.6.egg\tests\__init__.py
+c:\users\phani\appdata\roaming\python\python36\site-packages\ps_utils-0.1.0-py3.6.egg\tests\__pycache__\test_timeit.cpython-36.pyc
+c:\users\phani\appdata\roaming\python\python36\site-packages\ps_utils-0.1.0-py3.6.egg\tests\__pycache__\__init__.cpython-36.pyc
