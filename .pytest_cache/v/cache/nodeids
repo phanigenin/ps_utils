@@ -1,0 +1,3 @@
+[
+  "tests/test_timeit.py::test_mapfunction"
+]
